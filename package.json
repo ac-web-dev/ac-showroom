@@ -1,0 +1,17 @@
+{
+  "name": "ac-showroom",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "latest",
+    "vue-easy-lightbox": "^1.19.0"
+  },
+  "dependencies": {
+    "@iconify/vue": "^5.0.0"
+  }
+}
